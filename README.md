@@ -21,8 +21,8 @@ Backend cho ứng dụng gợi ý hành trình du lịch dựa trên sở thích
 
 1. Clone repository:
 ```
-git clone <repository-url>
-cd travel-planner-backend
+git clone https://github.com/vietlinhh02/rcm-plan-ai
+cd rcm-plan-ai
 ```
 
 2. Cài đặt dependencies:
